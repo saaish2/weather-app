@@ -1,4 +1,4 @@
-Weather Forecasting App
+
 This is a simple weather forecasting web application built using HTML, CSS, and JavaScript. It fetches current weather data from the OpenWeatherMap API based on user input (city name) and displays the temperature, weather description, humidity, wind speed, visibility, and an icon representing the weather condition.
 
 
